@@ -1,0 +1,16 @@
+D:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe.config
+D:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe
+D:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.pdb
+D:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csprojResolveAssemblyReference.cache
+D:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo_da_forca.MainForm.resources
+D:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csproj.GenerateResource.Cache
+D:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.exe
+D:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.pdb
+E:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe.config
+E:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe
+E:\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.pdb
+E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csprojResolveAssemblyReference.cache
+E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo_da_forca.MainForm.resources
+E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csproj.GenerateResource.Cache
+E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.exe
+E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.pdb

@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogo da forca", "jogo da forca\jogo da forca.csproj", "{15C6CDC8-9249-493C-8F51-E2E1E2168364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C6CDC8-9249-493C-8F51-E2E1E2168364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6CDC8-9249-493C-8F51-E2E1E2168364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6CDC8-9249-493C-8F51-E2E1E2168364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6CDC8-9249-493C-8F51-E2E1E2168364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
