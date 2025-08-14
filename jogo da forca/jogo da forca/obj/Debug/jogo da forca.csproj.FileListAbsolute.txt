@@ -14,3 +14,11 @@ E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo_da_forca.MainForm.resour
 E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csproj.GenerateResource.Cache
 E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.exe
 E:\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.pdb
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe.config
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.exe
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\bin\Debug\jogo da forca.pdb
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\obj\Debug\jogo_da_forca.MainForm.resources
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.csproj.GenerateResource.Cache
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.exe
+C:\Users\ADM\Downloads\DS - ETEC\Programas\jogo da forca\jogo da forca\obj\Debug\jogo da forca.pdb

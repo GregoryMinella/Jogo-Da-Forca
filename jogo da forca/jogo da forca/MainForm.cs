@@ -55,7 +55,7 @@ namespace jogo_da_forca
 				listBox1.Items.Add("Voce errou " + errou + " vezes");
 			}
 			
-			if (errou == palavra.Length)
+			if (errou == 6)
 			{
 				button2.Visible = false;
 				textBox2.Visible = false;
@@ -64,7 +64,7 @@ namespace jogo_da_forca
 			
 			listBox1.Items.Add("a letra (" + letra + ") aparece (" + encontrar + ") vezes");
 			
-			if (errou == palavra.Length)
+			if (errou == 6)
 			{
 				listBox1.Items.Clear();
 			}
